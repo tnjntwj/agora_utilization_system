@@ -1,0 +1,7 @@
+{
+  "name": "Copy of アゴラ利用管理システム (Agora System)",
+  "description": "電気通信大学のワークスペース「アゴラ」における施設予約、学習グループマッチング、混雑状況の可視化を支援する統合管理プラットフォームです。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
